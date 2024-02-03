@@ -6,6 +6,7 @@ Help fuel my passion!
 Any amount would be awesome!
 
 
+<img src="https://i.imgur.com/oYUB1yd.png" alt="Alt text" width="300"/>
 
 ### Project Description
 
