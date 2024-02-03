@@ -11,13 +11,13 @@ Any amount would be awesome!
 
 Simplify your Lora training for Stable Diffusion with this powerful tool suite. CATS (Citron AI Tool Suite) consists of two essential components:
 
-1. Citron Dataset Maker: Automatically generate captions for your dataset, streamlining the data preparation process.
+1. Citron Dataset Maker: Automatically download images from Gelbooru and generate captions for your dataset, streamlining the data preparation process.
 2. Citron Lora Trainer: An intuitive tool designed to simplify Lora training. Hide advanced settings and focus on the essential details to make your training process straightforward.
 3. Coming soon!!! - CALM (Citron Automatic Lora Maker): A comprehensive tool that streamlines the entire process—from downloading images on Gelbooru to generating captions and training a Lora—in a single, automated step. #Keep CALM and Train On
 
-While there are many Lora training tools with advanced features, the Citron Lora Trainer is dedicated to providing a user-friendly experience, ensuring that even beginners can easily navigate the training process. Make Lora training accessible and efficient with Citron!
+While there are many Lora training tools with advanced features, CATS is dedicated to providing a user-friendly experience, ensuring that even beginners can easily navigate the training process. Make Lora training accessible and efficient with CATS!
 
-
+I've made all my Loras for free in Google Colab and now you can too! 
 
 
 # Links
